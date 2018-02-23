@@ -1,0 +1,16 @@
+CONTRIBUTING.rst
+HISTORY.rst
+MANIFEST.in
+README.rst
+setup.cfg
+systeminfo/__init__.py
+systeminfo/cli.py
+systeminfo/main.py
+systeminfo/p11.py
+systeminfo.egg-info/PKG-INFO
+systeminfo.egg-info/SOURCES.txt
+systeminfo.egg-info/dependency_links.txt
+systeminfo.egg-info/entry_points.txt
+systeminfo.egg-info/top_level.txt
+tests/__init__.py
+tests/test_assignment2.py
